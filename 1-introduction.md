@@ -8,3 +8,6 @@ Ce document a été concocté par les soins de Game* (à lire Game Star), une co
 
 ![borne-avant](./img/borne-avant.jpg)
 *Borne après finition*
+
+---
+<p align="center"><a href="./2-preparation">Suivant ></a></p>

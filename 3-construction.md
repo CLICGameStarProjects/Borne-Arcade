@@ -90,3 +90,6 @@
 
 ## Assemblage
 ![plan_03](./img/plan_03.jpg)
+
+---
+<p align="center"><a href="./2-preparation">< Précédent</a> – <a href="./4-peinture">Suivant ></a></p>

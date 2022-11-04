@@ -61,3 +61,6 @@ Voici une liste du matériel nécessaire à la construction d’une borne arcade
 | T-molding 19mm | m | ??? |
 | Sous-couche peinture blanche | L | ??? |
 | Peinture blanche | L | ??? |
+
+---
+<p align="center"><a href="./1-introduction">< Précédent</a> – <a href="./3-construction">Suivant ></a></p>
