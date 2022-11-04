@@ -1,4 +1,11 @@
 # 2. Préparation
+- [Outils](#outils)
+- [Matériel](#mat-riel)
+  * [Structure principale](#structure-principale)
+  * [Électronique](#-lectronique)
+  * [Finitions et décoration](#finitions-et-d-coration)
+- [Liste de découpe du bois](#liste-de-d-coupe-du-bois)
+
 ## Outils
 Voici une liste des outils nécessaire à la construction d’une borne arcade.
 
@@ -19,13 +26,15 @@ Voici une liste du matériel nécessaire à la construction d’une borne arcade
 | Nom | Unité | Quantité |
 |:---:|:---:|:---:|
 | Bois MDF 19mm | m² | 3,7 |
-| Bois XXX 20mm | m² | 3,7 |
+| Bois XXX 20mm | m² | 0,04 |
 | Lamelo 20mm | pièce | 28 |
 | Charnière déportée de porte | pièce | 4 |
 | Serrure batteuse | pièce | 2 |
 | Plexiglas | m² | 0,25 |
 | Colle à bois | L | ??? |
 | Mastic universel ou à bois | L | ??? |
+
+> Note :  Le Bois ??? 20mm peut être remplacé par n'importe quoi tant que c'est solide.
 
 ### Électronique
 | Nom | Unité | Quantité |
@@ -43,6 +52,8 @@ Voici une liste du matériel nécessaire à la construction d’une borne arcade
 | Domino électrique (2 entrées) | pièce | 1 |
 | Bouton d'allumage central | pièce | 1 |
 
+> Note : La Raspberry Pi peut être remplacée par une Banana Pi, ou tout autre "ordinateur" avec une prise HDMI
+
 ### Finitions et décoration
 | Nom | Unité | Description |
 |:---:|:---:|:---:|
@@ -50,5 +61,3 @@ Voici une liste du matériel nécessaire à la construction d’une borne arcade
 | T-molding 19mm | m | ??? |
 | Sous-couche peinture blanche | L | ??? |
 | Peinture blanche | L | ??? |
-
-## 
