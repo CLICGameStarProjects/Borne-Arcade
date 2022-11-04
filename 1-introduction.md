@@ -10,4 +10,4 @@ Ce document a été concocté par les soins de Game* (à lire Game Star), une co
 *Borne après finition*
 
 ---
-<p align="center"><a href="./2-preparation">Suivant ></a></p>
+<p align="center"><a href="./2-preparation.md">Suivant ></a></p>

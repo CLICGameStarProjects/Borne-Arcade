@@ -63,4 +63,4 @@ Voici une liste du matériel nécessaire à la construction d’une borne arcade
 | Peinture blanche | L | ??? |
 
 ---
-<p align="center"><a href="./1-introduction">< Précédent</a> – <a href="./3-construction">Suivant ></a></p>
+<p align="center"><a href="./1-introduction.md">< Précédent</a> – <a href="./3-construction.md">Suivant ></a></p>
